@@ -1,4 +1,4 @@
-# 111
+# 使用基类构造函数赋值
 #include<iostream>
 using namespace std;
 class A{
